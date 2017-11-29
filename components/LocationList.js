@@ -24,7 +24,11 @@ var LocationList = React.createClass({
 
 	return (
 		<div className
+	
+
 	)
 
 	}
-})
+});
+
+module.exports = LocationList;

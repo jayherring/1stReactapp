@@ -23,3 +23,5 @@ var CurrentLocatioon = React.createClass({
 			);
 	}
 });
+
+module.exports = CurrentLocation;
